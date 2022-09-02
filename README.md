@@ -1,5 +1,5 @@
-# my-first-xml
-just for fun =learning xml
+#Portfolio
+
 
 ## My Skills
 - spreadsheets
@@ -9,6 +9,6 @@ just for fun =learning xml
 - Dashboard
 - Stats & ML
 
-## My Portfolios
+## My Portfolios work
 
-Please see my Google Data Studio dashboard .[here].(http:)
+Please see my Google Data Studio dashboard .[here].(https://datastudio.google.com/reporting/e055c1cf-8399-4124-8253-edfe532f15c5)
