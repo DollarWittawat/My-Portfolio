@@ -20,3 +20,6 @@
 
 ### SQLite
 - My SQlite project [Here](https://replit.com/@withwasnykhng/Homework?v=1)
+
+### Python
+- Pandas and Numpy project [Here](https://datalore.jetbrains.com/notebook/C6WdwCYQbqjmCqZAaVeoE2/cEyePKIoRkh0keRDWh2GLs/
